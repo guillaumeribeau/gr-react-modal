@@ -31,7 +31,7 @@ For import rs-react-modal:
 />
 ```
 
-![Alt text](./example/By_default.png)
+![Alt text](example/exemple1.png)
 
 ### Example 2: with close button only (showClose = true)
 
@@ -50,7 +50,7 @@ const customButton = {
 />
 ```
 
-![Alt text](./example/showClose_true.png) 
+![Alt text](example/exemple2.png) 
 
 ### Example 3: customized
 
@@ -82,7 +82,7 @@ const customButton = {
 />
 ```
 
-![Alt text](./example/Customized.png) 
+![Alt text](example/exemple3.png) 
 
 <div id='Default'>
 
